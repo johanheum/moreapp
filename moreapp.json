@@ -2,7 +2,7 @@
 	{
 		"eng": "test",
 		"name" : "test",
-	    "category": "KPOP",
+	    "category": "kpop",
 		"rating": 5.0,
 		"package_name": "",
 		"image": ""
