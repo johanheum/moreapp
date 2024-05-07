@@ -1,3 +1,10 @@
 [
-	
+	{
+		"eng": "test",
+		"name" : "test",
+	    "category": "KPOP",
+		"rating": 5.0,
+		"package_name": "",
+		"image": ""
+	}
 ]
